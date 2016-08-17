@@ -1,6 +1,8 @@
 # General Conference Word Frequency
 
-My initial tool here was very rough and ugly, done some time ago. I decided to update the tool to utilize the Natural Language Toolkit, as well as a Count Vectorizer from scikit-learn. It's now much quicker and more accurate.
+My initial script here was very rough and ugly, done some time ago. I decided to update it to utilize the Natural Language Toolkit as well as a Count Vectorizer from scikit-learn. It's now much quicker and more accurate.
+
+The script provides a word count for LDS General Conference talks.
 
 ###Dependencies
 
