@@ -11,7 +11,7 @@ The script provides a word count for LDS General Conference talks.
 * Numpy
 * Scipy
 * BeautifulSoup
-* NTLK
+* NLTK
 * Scikit-Learn
 * re
 * requests
