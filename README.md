@@ -4,7 +4,7 @@ My initial script here was very rough and ugly, done some time ago. I decided to
 
 The script provides a word count for LDS General Conference talks.
 
-###Dependencies
+### Dependencies
 
 * Python 2.7
 * Pandas
@@ -16,7 +16,7 @@ The script provides a word count for LDS General Conference talks.
 * re
 * requests
 
-###Usage
+### Usage
 
 Download the python script and change the "url" variable to the link of the General Conference talk you want to analyze. Run the script, which will output a CSV consisting of a word and the number of times it was used within the talk.
 
